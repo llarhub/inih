@@ -6,4 +6,4 @@
 [![LLGo bindings](https://img.shields.io/badge/llarhub-LLGo_Bindings-brightgreen.svg)](https://github.com/xgo-dev/llgo/blob/main/doc/LLGo-Bindings.md)
 [![XGo](https://img.shields.io/badge/project-XGo-blue.svg)](https://github.com/goplus/xgo)
 
-LLGo bindings for inih, simple .INI file parser in C, good for embedded systems
+LLGo bindings for inih, a simple .INI file parser in C, good for embedded systems
